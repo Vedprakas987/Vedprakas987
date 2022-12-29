@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vedprakas987.github.io/vedprakas9876/](https://vedprakas987.github.io/vedprakas9876/)
 
-- 💬 Ask me about **Mern,Front End Development**
+- 💬 Ask me about **MERN,Front End Development**
 
 - 📫 How to reach me **vedprakash4gs@gmail.com**
 
