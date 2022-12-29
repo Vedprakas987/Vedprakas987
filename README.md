@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedprakash Sinha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif" alt="coding"/>
+<img align="right width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif](https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprakas987&label=Profile%20views&color=0e75b6&style=flat" alt="vedprakas987" /> </p>
 
