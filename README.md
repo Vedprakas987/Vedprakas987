@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js,Node.js,Express.js**
 
-- 👨‍💻 All of my projects are available at [https://vedprakas987.github.io/vedprakas9876/](https://vedprakas987.github.io/vedprakas9876/)
+- 👨‍💻 All of my projects are available at [https://vedprakas987.github.io/Vedprakas9876/](https://vedprakas987.github.io/Vedprakas9876/)
 
 - 💬 Ask me about **MERN,Front End Development**
 
