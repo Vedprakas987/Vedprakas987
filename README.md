@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedprakash Sinha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img alt="codes align="right" width="400" src='https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprakas987&label=Profile%20views&color=0e75b6&style=flat" alt="vedprakas987" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedprakas987" alt="vedprakas987" /></a> </p>
