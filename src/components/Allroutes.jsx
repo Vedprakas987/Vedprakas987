@@ -5,11 +5,14 @@ import Contact from "./Contact";
 import Resume from "./Resume";
 import Skills from "./Skills";
 import Project from "./Project"
+import Navbar from "./Navbar"
 const Allroutes = () => {
     return (
         <div>
             <Routes>
-          <Route path='/About' element={<About/>}/>
+         
+         <Route path='/' element={<Navbar/>}/>
+         <Route path='/About' element={<About/>}/>
           <Route path='/Contact' element={<Contact/>}/>
           <Route path='/Resume' element={<Resume/>}/>
           <Route path='/Skills' element={<Skills/>}/>

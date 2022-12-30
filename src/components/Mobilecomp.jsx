@@ -1,6 +1,6 @@
 import React from 'react';
 import {FaBars} from 'react-icons/fa'
-import {Link} from 'react-router-dom'
+import {NavLink} from 'react-router-dom'
 import {
     Menu,
     MenuButton,
@@ -21,18 +21,18 @@ const Mobilecomp = () => {
   </MenuButton>
   <MenuList  w={"100%"}>
     <MenuItem>
-    <Link to="/About">About</Link>
+    <NavLink to="/About">About</NavLink>
     </MenuItem>
     <MenuItem>
-    <Link to="/Skills">Skills</Link>
+    <NavLink to="/Skills">Skills</NavLink>
     </MenuItem> <MenuItem>
-    <Link to="/Project">Project</Link>
+    <NavLink to="/Project">Project</NavLink>
     </MenuItem>
     <MenuItem>
-    <Link to="/Resume">Resume</Link>
+    <NavLink to="/Resume">Resume</NavLink>
     </MenuItem>
      <MenuItem>
-    <Link to="/Contact">Contacts</Link>
+    <NavLink to="/Contact">Contacts</NavLink>
     </MenuItem>
 
   </MenuList>

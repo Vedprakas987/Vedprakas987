@@ -1,12 +1,13 @@
 import React,{useState} from 'react';
 import About from "./About.jsx"
-import { Button,Box,HStack,Flex,Spacer } from '@chakra-ui/react';
+import Project from './Project.jsx';
 
+import { Button,Box,HStack,Flex,Spacer } from '@chakra-ui/react';
+import Skills from './Skills.jsx';
 import { Link } from 'react-router-dom';
 import {FaBars} from 'react-icons/fa'
 import {RxCross1} from 'react-icons/rx'
 import Mobilecomp from './Mobilecomp';
-import './Navbar.css'
 const Navbar = () => {
     return (
         <>
@@ -40,6 +41,8 @@ const Navbar = () => {
         </Flex>
         <Box>
        <About/>
+       <Skills/>
+       <Project/>
         </Box>
         </>
     );
