@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vedprakas9876/static/css/main.9593e81d.css",
-    "main.js": "/Vedprakas9876/static/js/main.88771edd.js",
+    "main.css": "/Vedprakas9876/static/css/main.194345b1.css",
+    "main.js": "/Vedprakas9876/static/js/main.9e4c2a78.js",
     "static/js/787.128fc6e9.chunk.js": "/Vedprakas9876/static/js/787.128fc6e9.chunk.js",
     "static/media/logo.svg": "/Vedprakas9876/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Vedprakas9876/index.html",
-    "main.9593e81d.css.map": "/Vedprakas9876/static/css/main.9593e81d.css.map",
-    "main.88771edd.js.map": "/Vedprakas9876/static/js/main.88771edd.js.map",
+    "main.194345b1.css.map": "/Vedprakas9876/static/css/main.194345b1.css.map",
+    "main.9e4c2a78.js.map": "/Vedprakas9876/static/js/main.9e4c2a78.js.map",
     "787.128fc6e9.chunk.js.map": "/Vedprakas9876/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9593e81d.css",
-    "static/js/main.88771edd.js"
+    "static/css/main.194345b1.css",
+    "static/js/main.9e4c2a78.js"
   ]
 }
