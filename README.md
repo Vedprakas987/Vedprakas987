@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://vedprakas987.github.io/](https://vedprakas987.github.io/Vedprakas9876/)
+- 👨‍💻 All of my projects are available at [https://vedprakas987.github.io](https://vedprakas987.github.io/)
 
 - 💬 Ask me about **MERN,Front End Development**
 
