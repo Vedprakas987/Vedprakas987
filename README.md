@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at <a href="https://vedprakas987.github.io">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://Vedprakas987.github.io">Portfolio</a>
 
 - 💬 Ask me about **MERN,Front End Development**
 
@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedprakas987&show_icons=true&locale=en" alt="vedprakas987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedprakas987&" alt="vedprakas987" /></p>
-<a href="https://vedprakas987.github.io">Portfolio</a>
+<a href="https://Vedprakas987.github.io">Portfolio</a>
